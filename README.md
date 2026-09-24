@@ -20,7 +20,7 @@ During continual learning, reconstruction loss, ensemble cooperation loss, and h
 ## Framework
 
 <p align="center">
-  <img src="https://github.com/ChengXi-1217/DFAN-HAD/blob/main/Figure/CL-SSMamba.png?raw=true" width="70%">
+  <img src="https://github.com/WJN08/CL-SSMamba/main/Figure/CL-SSMamba.png?raw=true" width="70%">
 </p>
 
 The overall pipeline consists of:
